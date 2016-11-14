@@ -1,0 +1,19 @@
+*** Goal ***
+The exercise is to write a command line driven text search engine. For detailed description see pdf file.
+
+
+*** Build ***
+The project contains Maven config for testing and packaging the application.
+Otherwise no 3rd party libraries are required to run the application.
+
+
+*** How to use ***
+java -jar SchibstedSearch.jar /path/to/directory/containing/text/files
+Type search phrases in interactive prompt or :quit to stop.
+
+
+*** Author ***
+Ivan Alekseev
+alexeevi@gmail.com
+
+Date: November 14, 2016
